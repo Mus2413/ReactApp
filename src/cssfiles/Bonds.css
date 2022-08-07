@@ -1,0 +1,64 @@
+.statusbutton{
+    background-color: green;
+    border-radius: 15px;
+    padding: 8px 10px ;
+    color: white;
+    align-items: center;
+    text-decoration: none;
+    display: inline-block;
+    border: none;
+    width: 100px;
+}
+
+
+.statusbutton {
+    transition-duration: 0.4s;
+  }
+  
+  .statusbutton:hover {
+    background-color: gainsboro; /* Green */
+    color: black;
+  }
+
+  .color_red{
+    background-color: red;
+    border-radius: 15px;
+    padding: 8px 10px ;
+    color: white;
+    align-items: center;
+    text-decoration: none;
+    display: inline-block;
+    border: none;
+    width: 100px;
+    
+
+  }
+  .color_yellow{
+    background-color: yellow;
+    border-radius: 15px;
+    padding: 8px 10px ;
+    color: black;
+    align-items: center;
+    text-decoration: none;
+    display: inline-block;
+    border: none;
+    width: 100px;
+    
+  }
+
+  .color_red {
+    transition-duration: 0.4s;
+  }
+  
+  .color_red:hover {
+    background-color: gainsboro; /* Green */
+    color: black;
+  }
+  .color_yellow {
+    transition-duration: 0.4s;
+  }
+  
+  .color_yellow:hover {
+    background-color: gainsboro; /* Green */
+    color: black;
+  }
